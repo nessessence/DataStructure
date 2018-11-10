@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538307450 source:d:\programing\cpp\a_summary\grader_quiz_preparing\intersection\cpp\intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

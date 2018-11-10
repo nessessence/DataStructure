@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1488942504 source:d:\programing\cpp\a_summary\grader_quiz_preparing\pop many\cpp\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1488852696 d:\programing\cpp\a_summary\grader_quiz_preparing\pop many\cpp\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+
+1538298281 d:\programing\cpp\a_summary\grader_quiz_preparing\pop many\cpp\student.h
+	<stack>
+

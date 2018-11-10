@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1509889630 source:d:\programing\cpp\a_summary\grader_quiz_preparing\split queue\last_review\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1509889462 d:\programing\cpp\a_summary\grader_quiz_preparing\split queue\last_review\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538361405 d:\programing\cpp\a_summary\grader_quiz_preparing\split queue\last_review\student.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<queue>
+	"queue.h"
+

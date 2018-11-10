@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1456245226 source:d:\programing\cpp\a_summary\grader_quiz_preparing\erase_many\last_review\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1456244981 d:\programing\cpp\a_summary\grader_quiz_preparing\erase_many\last_review\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538353945 d:\programing\cpp\a_summary\grader_quiz_preparing\erase_many\last_review\student.h
+	<set>
+

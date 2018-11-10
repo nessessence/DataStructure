@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459219048 source:d:\programing\data structure\grader\firsttime\heapequal\main.cpp
+	<stdexcept>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+	<vector>
+
+1459217882 d:\programing\data structure\grader\firsttime\heapequal\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1541682275 d:\programing\data structure\grader\firsttime\heapequal\student.h
+

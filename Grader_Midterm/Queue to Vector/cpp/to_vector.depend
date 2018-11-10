@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1456244791 source:d:\programing\cpp\a_summary\grader_quiz_preparing\queue to vector\cpp\main.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"queue.h"
+	"student.h"
+
+1456244793 d:\programing\cpp\a_summary\grader_quiz_preparing\queue to vector\cpp\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538300934 d:\programing\cpp\a_summary\grader_quiz_preparing\queue to vector\cpp\student.h
+

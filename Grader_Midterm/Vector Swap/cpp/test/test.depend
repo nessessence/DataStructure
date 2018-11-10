@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538321183 source:d:\programing\cpp\a_summary\grader_quiz_preparing\vector swap\cpp\test\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

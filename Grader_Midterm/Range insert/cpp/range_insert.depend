@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1488942532 source:d:\programing\cpp\a_summary\grader_quiz_preparing\range insert\cpp\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1488856348 d:\programing\cpp\a_summary\grader_quiz_preparing\range insert\cpp\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538299058 d:\programing\cpp\a_summary\grader_quiz_preparing\range insert\cpp\student.h
+	<vector>
+

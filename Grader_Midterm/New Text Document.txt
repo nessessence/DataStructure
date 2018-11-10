@@ -1,0 +1,23 @@
+อ่านโจทย์ + เน้นเข้าใจโจทย์ + ดูข้อจำกัด + ข้อแนะนำของโจทย์ + ดูว่าให้อะไรมาบ้างใน file .cpp
+check point :
+1) ระวังเรื่องการ ลบ/เพิ่ม ข้อมูล ส่งผลต่อ index , size , iterator  >>> ex: pop , insert ,erase 
+2) CP::queue  
+// don't forget it  : q.pop() return q[front]
+ // this patterm mData[(mFront+index)%mCap] is fucking useful 
+>> ถ้าโจทย์เเบบ const method  ให้ใช้ copy constructor (*this) ,  ใช้ T *mData  ของ CPP
+>> T *mData ไม่ใช่ array เป็น pointer เอาไว้บอกตำเเหน่งเฉยๆ เพราะงั้นใช้  for each ไม่ได้  , การใช้ mData[i] = *(mData + i); 
+3. อย่าลืม return ค่า 
+4. std::swap(a,b) is fucking useful , it easy and also use to deallocate local variable ;
+5.  when use method with "this"  it always *this  ex : vector<int> v (*this) , swap(*this,temp) , for(auto x : *this) 
+6. " this->"   !! not " this."     , when this is pair alway use it ,   this->first , this->second ;
+7. Not correct : pair<int,string> p  = (a ,b ) ,  pair<int,string> p  = make_pair(a ,b )
+8. map.insert(make_pair(key,value))   , map.insert({key,value})
+9. find key : map.find(key) != map.end() , map.count(key) != 0  same with set  
+10.  iterator constructor std::vector   ex:    vector<T>  temp (v.begin() , v.end())
+index  - iterator   :   it = v.begin() + index ; 
+11  v.insert( iterator , value )     iterator = v.begin() + index  
+12  vector insert :   v.insert( v.begin()+_ ,  x.begin() + _ , x.begin() + _)
+13 v.erase(iterator)  , v.erase(iterator start , iterator stop)
+14. constructor  ไม่ใช่ normal method  1)  ไม่คืนค่า 2)ชื่อเหมือน class  3) เวลาสร้างให้ใช้ " this->dataMember "  ให้ระบุให้ครบ
+15 . ข้อมูลขนาดใหญ่ ใช้ pointer , address ดีกว่า map<int,MP3*> m ;
+5 0 1 2 3 4 5 50 51 52 53 54

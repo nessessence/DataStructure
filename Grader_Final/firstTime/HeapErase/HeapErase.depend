@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541829660 source:d:\programing\data structure\grader\firsttime\heaperase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

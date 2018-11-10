@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541687833 source:d:\programing\data structure\grader\firsttime\heapordering\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<string>
+	<stdexcept>
+
